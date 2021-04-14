@@ -1,3 +1,8 @@
+/*
+Hi, Leetcode is really annoying, your page makes it more interesting. :)
+This is Haoyang Ding. For the Authentication part, I think you can do a simple check like whether the username/password is empty. 
+And for the sign up part, I think if I sign up successfully, It's beeter to redirect me to the sign in page instead of the main page.
+*/
 import React, { useState } from "react";
 import "./css/sign_up.css";
 import "bootstrap/dist/css/bootstrap.min.css";
